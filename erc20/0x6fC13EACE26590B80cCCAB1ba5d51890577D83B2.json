@@ -1,0 +1,28 @@
+{
+  "symbol": "TFT",
+    "address": "0x6fC13EACE26590B80cCCAB1ba5d51890577D83B2",
+  "overview": {
+    "en": "UMB (Umbrella Token) is the token of Umbrella Network's community owned, layer 2 oracle.",
+    "zh": ""
+  },
+  "email": "contact@umb.network",
+  "website": "https://umb.network/",
+  "whitepaper": "https://token.im/",
+  "state": "NORMAL",
+  "published_on": "2021-02-09",
+  "initial_price":{
+        "ETH":"0.000029 ETH",
+        "USD":"0.05 USD",
+        "BTC":"0.00000109 BTC"
+  },
+  "links": {
+    "blog": "https://medium.com/umbrella-network",
+    "twitter": "https://twitter.com/UmbNetwork",
+    "telegram": "https://t.me/umbrellanet",
+    "reddit": "",
+    "github": "https://github.com/umbrella-network",
+    "facebook": "",
+    "slack": "",
+    "medium": "https://medium.com/imtoken"
+  }
+}
